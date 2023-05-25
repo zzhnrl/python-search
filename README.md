@@ -1,4 +1,4 @@
-# sequential_binary_search
+# Penjelasan Percobaan 
 # Percobaan 10 
 Pada percobaan 10 merupakan implementasi dari algoritma pencarian rotasi terkecil dalam sebuah list menggunakan binary search. selanjutnya code program tersebut menghasilkan output "Indeks rotasi terkecil adalah 4" yang dimana "my_list" berputar sehingga indeks rotasi terkecil adalah 4.
 
